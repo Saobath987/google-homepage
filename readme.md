@@ -1,0 +1,1 @@
+This is my first Odin Project. Designing a web page with HTML and CSS.
